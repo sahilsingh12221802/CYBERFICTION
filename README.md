@@ -174,7 +174,7 @@ gsap.to("#page3", {
 - GSAP (GreenSock Animation Platform)
 
 ## ScreenShot
-<img width="440" style="float: left; margin-right" alt="Screenshot 2024-06-28 at 10 17 28 PM" src="https://github.com/sahilsingh12221802/CYBERFICTION/assets/114878612/e25f6d1c-5732-43e4-a7a6-d3d606182042">
+<img width="440" alt="Screenshot 2024-06-28 at 10 17 28 PM" src="https://github.com/sahilsingh12221802/CYBERFICTION/assets/114878612/e25f6d1c-5732-43e4-a7a6-d3d606182042">
 
 <img width="440" alt="Screenshot 2024-06-28 at 10 17 38 PM" src="https://github.com/sahilsingh12221802/CYBERFICTION/assets/114878612/e8a1ca35-b9d3-4ccc-b383-d591e7562ce1">
 
