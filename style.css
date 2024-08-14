@@ -105,6 +105,11 @@ canvas{
     border: none;
 }
 
+#nav>a>button:hover{
+    background-color: #fff;
+    color: black;
+}
+
 #page1text{
     position: absolute;
     top: 60%;
