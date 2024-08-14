@@ -106,8 +106,9 @@ canvas{
 }
 
 #nav>a>button:hover{
-    background-color: #fff;
-    color: black;
+    background-color: #f1f1f1;
+    color: #000;
+    transition: ease-in-out 0.5s;
 }
 
 #page1text{
